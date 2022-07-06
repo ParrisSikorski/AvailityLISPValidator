@@ -1,0 +1,13 @@
+C:\Users\parri\source\repos\AvailityLISPValidator\bin\Debug\netcoreapp3.1\AvailityLISPValidator.exe
+C:\Users\parri\source\repos\AvailityLISPValidator\bin\Debug\netcoreapp3.1\AvailityLISPValidator.deps.json
+C:\Users\parri\source\repos\AvailityLISPValidator\bin\Debug\netcoreapp3.1\AvailityLISPValidator.runtimeconfig.json
+C:\Users\parri\source\repos\AvailityLISPValidator\bin\Debug\netcoreapp3.1\AvailityLISPValidator.runtimeconfig.dev.json
+C:\Users\parri\source\repos\AvailityLISPValidator\bin\Debug\netcoreapp3.1\AvailityLISPValidator.dll
+C:\Users\parri\source\repos\AvailityLISPValidator\bin\Debug\netcoreapp3.1\AvailityLISPValidator.pdb
+C:\Users\parri\source\repos\AvailityLISPValidator\obj\Debug\netcoreapp3.1\AvailityLISPValidator.csprojAssemblyReference.cache
+C:\Users\parri\source\repos\AvailityLISPValidator\obj\Debug\netcoreapp3.1\AvailityLISPValidator.AssemblyInfoInputs.cache
+C:\Users\parri\source\repos\AvailityLISPValidator\obj\Debug\netcoreapp3.1\AvailityLISPValidator.AssemblyInfo.cs
+C:\Users\parri\source\repos\AvailityLISPValidator\obj\Debug\netcoreapp3.1\AvailityLISPValidator.csproj.CoreCompileInputs.cache
+C:\Users\parri\source\repos\AvailityLISPValidator\obj\Debug\netcoreapp3.1\AvailityLISPValidator.dll
+C:\Users\parri\source\repos\AvailityLISPValidator\obj\Debug\netcoreapp3.1\AvailityLISPValidator.pdb
+C:\Users\parri\source\repos\AvailityLISPValidator\obj\Debug\netcoreapp3.1\AvailityLISPValidator.genruntimeconfig.cache
